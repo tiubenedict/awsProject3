@@ -6,6 +6,9 @@ A basic demo project on using Amazon RDS (MySQL/Postgres) and QuickSight
 
 
 ## 🧱 Setup Instructions
+### Step 1: Create RDS database with public access
+### Step 2A: Connect via MySQL Workbench / pgAdmin4 and create table
+### Step 2B: Create EC2 instance, connect to RDS, and create table
 
 ## 🛠️ Configuration Details
 
